@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Ericsson
+Implementation-Title: SingleSignon
+TorService-Release-Version: 13.2
+Implementation-Version: 13.2
+Implementation-Vendor-Id: com.ericsson.nms
+Specification-Vendor: Ericsson
+Build-Jdk: 1.7.0
+Built-By: EADASZI
+Created-By: Maven Integration for Eclipse
+Specification-Title: SingleSignon
+Specification-Version: 13.2
+
+Name: Build-Information
+Build-Time: null
+Maven-Version: null
+Os-Version: 6.1
+Java-Version: 1.7.0
+Os-Arch: x86
+Os-Name: Windows 7
+Java-Vendor: Oracle Corporation
+
